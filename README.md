@@ -1,1 +1,8 @@
-# my_experience
+My experience:
+
+c#
+PostgreSQL
+Prism
+Wpf
+DevExpress
+EntityFrameWorkCore
