@@ -1,8 +1,9 @@
 My experience:
 
-c#
-PostgreSQL
-Prism
-Wpf
-DevExpress
-EntityFrameWorkCore
+c#,
+PostgreSQL,
+Prism,
+Wpf,
+DevExpress,
+EntityFrameWorkCore,
+FireBird
